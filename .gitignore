@@ -4,3 +4,5 @@ coverage
 doc
 pkg
 test.log
+
+.rvmrc
